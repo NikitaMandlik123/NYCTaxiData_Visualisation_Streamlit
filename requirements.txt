@@ -50,7 +50,7 @@ msgpack==1.0.4
 multidict==6.0.2
 munch==2.5.0
 nest-asyncio==1.5.5
-numpy==1.22.4
+numpy==1.21.3
 packaging==21.3
 pandas==1.4.2
 parso==0.8.3
