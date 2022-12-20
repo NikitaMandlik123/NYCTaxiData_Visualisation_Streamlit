@@ -1,6 +1,6 @@
 import streamlit as st
 import plotly.express as px
-from mystlib import plot3D
+
 import pydeck as pdk
 def run(df):
     st.subheader("Plot # 01:")
